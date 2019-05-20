@@ -1,0 +1,142 @@
+D:\D\My Material\Files\My labs\Proj\Proj\bin\Debug\Proj.exe.config
+D:\D\My Material\Files\My labs\Proj\Proj\bin\Debug\Proj.exe
+D:\D\My Material\Files\My labs\Proj\Proj\bin\Debug\Proj.pdb
+D:\D\My Material\Files\My labs\Proj\Proj\obj\Debug\Proj.Form1.resources
+D:\D\My Material\Files\My labs\Proj\Proj\obj\Debug\Proj.Properties.Resources.resources
+D:\D\My Material\Files\My labs\Proj\Proj\obj\Debug\Proj.csproj.GenerateResource.Cache
+D:\D\My Material\Files\My labs\Proj\Proj\obj\Debug\Proj.exe
+D:\D\My Material\Files\My labs\Proj\Proj\obj\Debug\Proj.pdb
+D:\D\My Material\Files\My labs\Proj\Proj\obj\Debug\Proj.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Proj\Proj\bin\Debug\Proj.exe.config
+C:\Users\LENOVO\Desktop\Proj\Proj\obj\Debug\Proj.exe
+C:\Users\LENOVO\Desktop\Proj\Proj\obj\Debug\Proj.pdb
+C:\Users\LENOVO\Desktop\Proj\Proj\bin\Debug\Proj.exe
+C:\Users\LENOVO\Desktop\Proj\Proj\bin\Debug\Proj.pdb
+C:\Users\LENOVO\Desktop\Proj\Proj\obj\Debug\Proj.Form1.resources
+C:\Users\LENOVO\Desktop\Proj\Proj\obj\Debug\Proj.Form2.resources
+C:\Users\LENOVO\Desktop\Proj\Proj\obj\Debug\Proj.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Proj\Proj\obj\Debug\Proj.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\Proj\Proj\obj\Debug\Proj.UserControl1.resources
+C:\Users\LENOVO\Desktop\Proj\Proj\obj\Debug\Proj.first_form.resources
+C:\Users\LENOVO\Desktop\Proj\Proj\obj\Debug\Proj.csprojResolveAssemblyReference.cache
+D:\D\My Material\Files\proj\files project\Proj\bin\Debug\Proj.exe.config
+D:\D\My Material\Files\proj\files project\Proj\obj\Debug\Proj.exe
+D:\D\My Material\Files\proj\files project\Proj\obj\Debug\Proj.pdb
+D:\D\My Material\Files\proj\files project\Proj\bin\Debug\Proj.exe
+D:\D\My Material\Files\proj\files project\Proj\bin\Debug\Proj.pdb
+D:\D\My Material\Files\proj\files project\Proj\obj\Debug\Proj.csprojResolveAssemblyReference.cache
+D:\D\My Material\Files\proj\files project\Proj\obj\Debug\Proj.Form1.resources
+D:\D\My Material\Files\proj\files project\Proj\obj\Debug\Proj.Form2.resources
+D:\D\My Material\Files\proj\files project\Proj\obj\Debug\Proj.first_form.resources
+D:\D\My Material\Files\proj\files project\Proj\obj\Debug\Proj.Properties.Resources.resources
+D:\D\My Material\Files\proj\files project\Proj\obj\Debug\Proj.UserControl1.resources
+D:\D\My Material\Files\proj\files project\Proj\obj\Debug\Proj.csproj.GenerateResource.Cache
+D:\files project\Proj\bin\Debug\Proj.exe.config
+D:\files project\Proj\obj\Debug\Proj.exe
+D:\files project\Proj\obj\Debug\Proj.pdb
+D:\files project\Proj\bin\Debug\Proj.exe
+D:\files project\Proj\bin\Debug\Proj.pdb
+D:\files project\Proj\obj\Debug\Proj.csprojResolveAssemblyReference.cache
+D:\files project\Proj\obj\Debug\Proj.Form1.resources
+D:\files project\Proj\obj\Debug\Proj.Form2.resources
+D:\files project\Proj\obj\Debug\Proj.first_form.resources
+D:\files project\Proj\obj\Debug\Proj.Properties.Resources.resources
+D:\files project\Proj\obj\Debug\Proj.UserControl1.resources
+D:\files project\Proj\obj\Debug\Proj.csproj.GenerateResource.Cache
+D:\D\My Material\Files\proj\files project 1\Proj\bin\Debug\Proj.exe.config
+D:\D\My Material\Files\proj\files project 1\Proj\obj\Debug\Proj.exe
+D:\D\My Material\Files\proj\files project 1\Proj\obj\Debug\Proj.pdb
+D:\D\My Material\Files\proj\files project 1\Proj\obj\Debug\Proj.csprojResolveAssemblyReference.cache
+D:\D\My Material\Files\proj\files project 1\Proj\obj\Debug\Proj.Form1.resources
+D:\D\My Material\Files\proj\files project 1\Proj\obj\Debug\Proj.Form2.resources
+D:\D\My Material\Files\proj\files project 1\Proj\obj\Debug\Proj.first_form.resources
+D:\D\My Material\Files\proj\files project 1\Proj\obj\Debug\Proj.Properties.Resources.resources
+D:\D\My Material\Files\proj\files project 1\Proj\obj\Debug\Proj.UserControl1.resources
+D:\D\My Material\Files\proj\files project 1\Proj\obj\Debug\Proj.csproj.GenerateResource.Cache
+D:\D\My Material\Files\proj\files project 1\Proj\bin\Debug\Proj.exe
+D:\D\My Material\Files\proj\files project 1\Proj\bin\Debug\Proj.pdb
+C:\Users\LENOVO\Desktop\files project 1\Proj\bin\Debug\Proj.exe.config
+C:\Users\LENOVO\Desktop\files project 1\Proj\obj\Debug\Proj.exe
+C:\Users\LENOVO\Desktop\files project 1\Proj\obj\Debug\Proj.pdb
+C:\Users\LENOVO\Desktop\files project 1\Proj\bin\Debug\Proj.exe
+C:\Users\LENOVO\Desktop\files project 1\Proj\bin\Debug\Proj.pdb
+C:\Users\LENOVO\Desktop\files project 1\Proj\obj\Debug\Proj.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\files project 1\Proj\obj\Debug\Proj.Form1.resources
+C:\Users\LENOVO\Desktop\files project 1\Proj\obj\Debug\Proj.Form2.resources
+C:\Users\LENOVO\Desktop\files project 1\Proj\obj\Debug\Proj.first_form.resources
+C:\Users\LENOVO\Desktop\files project 1\Proj\obj\Debug\Proj.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\files project 1\Proj\obj\Debug\Proj.UserControl1.resources
+C:\Users\LENOVO\Desktop\files project 1\Proj\obj\Debug\Proj.csproj.GenerateResource.Cache
+D:\D\My Material\Files\proj\files project 1 (2)\files project 1\Proj\bin\Debug\Proj.exe.config
+D:\D\My Material\Files\proj\files project 1 (2)\files project 1\Proj\obj\Debug\Proj.exe
+D:\D\My Material\Files\proj\files project 1 (2)\files project 1\Proj\obj\Debug\Proj.pdb
+D:\D\My Material\Files\proj\files project 1 (2)\files project 1\Proj\bin\Debug\Proj.exe
+D:\D\My Material\Files\proj\files project 1 (2)\files project 1\Proj\bin\Debug\Proj.pdb
+D:\D\My Material\Files\proj\files project 1 (2)\files project 1\Proj\obj\Debug\Proj.csprojResolveAssemblyReference.cache
+D:\D\My Material\Files\proj\files project 1 (2)\files project 1\Proj\obj\Debug\Proj.Form1.resources
+D:\D\My Material\Files\proj\files project 1 (2)\files project 1\Proj\obj\Debug\Proj.Form2.resources
+D:\D\My Material\Files\proj\files project 1 (2)\files project 1\Proj\obj\Debug\Proj.first_form.resources
+D:\D\My Material\Files\proj\files project 1 (2)\files project 1\Proj\obj\Debug\Proj.Properties.Resources.resources
+D:\D\My Material\Files\proj\files project 1 (2)\files project 1\Proj\obj\Debug\Proj.UserControl1.resources
+D:\D\My Material\Files\proj\files project 1 (2)\files project 1\Proj\obj\Debug\Proj.csproj.GenerateResource.Cache
+E:\files project 1_migz5\files project 1\Proj\bin\Debug\Proj.exe.config
+E:\files project 1_migz5\files project 1\Proj\bin\Debug\Proj.exe
+E:\files project 1_migz5\files project 1\Proj\bin\Debug\Proj.pdb
+E:\files project 1_migz5\files project 1\Proj\obj\Debug\Proj.csprojAssemblyReference.cache
+E:\files project 1_migz5\files project 1\Proj\obj\Debug\Proj.Form1.resources
+E:\files project 1_migz5\files project 1\Proj\obj\Debug\Proj.Form2.resources
+E:\files project 1_migz5\files project 1\Proj\obj\Debug\Proj.first_form.resources
+E:\files project 1_migz5\files project 1\Proj\obj\Debug\Proj.Properties.Resources.resources
+E:\files project 1_migz5\files project 1\Proj\obj\Debug\Proj.UserControl1.resources
+E:\files project 1_migz5\files project 1\Proj\obj\Debug\Proj.csproj.GenerateResource.cache
+E:\files project 1_migz5\files project 1\Proj\obj\Debug\Proj.csproj.CoreCompileInputs.cache
+E:\files project 1_migz5\files project 1\Proj\obj\Debug\Proj.exe
+E:\files project 1_migz5\files project 1\Proj\obj\Debug\Proj.pdb
+E:\file\files project 1 (2)\files project 1\Proj\bin\Debug\Proj.exe.config
+E:\file\files project 1 (2)\files project 1\Proj\bin\Debug\Proj.exe
+E:\file\files project 1 (2)\files project 1\Proj\bin\Debug\Proj.pdb
+E:\file\files project 1 (2)\files project 1\Proj\obj\Debug\Proj.csprojAssemblyReference.cache
+E:\file\files project 1 (2)\files project 1\Proj\obj\Debug\Proj.Form1.resources
+E:\file\files project 1 (2)\files project 1\Proj\obj\Debug\Proj.Form2.resources
+E:\file\files project 1 (2)\files project 1\Proj\obj\Debug\Proj.first_form.resources
+E:\file\files project 1 (2)\files project 1\Proj\obj\Debug\Proj.Properties.Resources.resources
+E:\file\files project 1 (2)\files project 1\Proj\obj\Debug\Proj.UserControl1.resources
+E:\file\files project 1 (2)\files project 1\Proj\obj\Debug\Proj.csproj.GenerateResource.cache
+E:\file\files project 1 (2)\files project 1\Proj\obj\Debug\Proj.csproj.CoreCompileInputs.cache
+E:\file\files project 1 (2)\files project 1\Proj\obj\Debug\Proj.exe
+E:\file\files project 1 (2)\files project 1\Proj\obj\Debug\Proj.pdb
+F:\fcis\2nd year\2nd term\files\project\files project final\Proj\bin\Debug\Proj.exe.config
+F:\fcis\2nd year\2nd term\files\project\files project final\Proj\obj\Debug\Proj.exe
+F:\fcis\2nd year\2nd term\files\project\files project final\Proj\obj\Debug\Proj.pdb
+F:\fcis\2nd year\2nd term\files\project\files project final\Proj\obj\Debug\Proj.Form1.resources
+F:\fcis\2nd year\2nd term\files\project\files project final\Proj\obj\Debug\Proj.Form2.resources
+F:\fcis\2nd year\2nd term\files\project\files project final\Proj\obj\Debug\Proj.first_form.resources
+F:\fcis\2nd year\2nd term\files\project\files project final\Proj\obj\Debug\Proj.Properties.Resources.resources
+F:\fcis\2nd year\2nd term\files\project\files project final\Proj\obj\Debug\Proj.UserControl1.resources
+F:\fcis\2nd year\2nd term\files\project\files project final\Proj\obj\Debug\Proj.csproj.GenerateResource.Cache
+F:\fcis\2nd year\2nd term\files\project\files project final\Proj\bin\Debug\Proj.exe
+F:\fcis\2nd year\2nd term\files\project\files project final\Proj\bin\Debug\Proj.pdb
+C:\Users\LENOVO\Desktop\files project final\Proj\bin\Debug\Proj.exe.config
+C:\Users\LENOVO\Desktop\files project final\Proj\obj\Debug\Proj.exe
+C:\Users\LENOVO\Desktop\files project final\Proj\obj\Debug\Proj.pdb
+C:\Users\LENOVO\Desktop\files project final\Proj\bin\Debug\Proj.exe
+C:\Users\LENOVO\Desktop\files project final\Proj\bin\Debug\Proj.pdb
+C:\Users\LENOVO\Desktop\files project final\Proj\obj\Debug\Proj.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\files project final\Proj\obj\Debug\Proj.Form1.resources
+C:\Users\LENOVO\Desktop\files project final\Proj\obj\Debug\Proj.Form2.resources
+C:\Users\LENOVO\Desktop\files project final\Proj\obj\Debug\Proj.first_form.resources
+C:\Users\LENOVO\Desktop\files project final\Proj\obj\Debug\Proj.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\files project final\Proj\obj\Debug\Proj.UserControl1.resources
+C:\Users\LENOVO\Desktop\files project final\Proj\obj\Debug\Proj.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\files project final of final\Proj\bin\Debug\Proj.exe.config
+C:\Users\LENOVO\Desktop\files project final of final\Proj\obj\Debug\Proj.exe
+C:\Users\LENOVO\Desktop\files project final of final\Proj\obj\Debug\Proj.pdb
+C:\Users\LENOVO\Desktop\files project final of final\Proj\bin\Debug\Proj.exe
+C:\Users\LENOVO\Desktop\files project final of final\Proj\bin\Debug\Proj.pdb
+C:\Users\LENOVO\Desktop\files project final of final\Proj\obj\Debug\Proj.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\files project final of final\Proj\obj\Debug\Proj.Form1.resources
+C:\Users\LENOVO\Desktop\files project final of final\Proj\obj\Debug\Proj.Form2.resources
+C:\Users\LENOVO\Desktop\files project final of final\Proj\obj\Debug\Proj.first_form.resources
+C:\Users\LENOVO\Desktop\files project final of final\Proj\obj\Debug\Proj.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\files project final of final\Proj\obj\Debug\Proj.UserControl1.resources
+C:\Users\LENOVO\Desktop\files project final of final\Proj\obj\Debug\Proj.csproj.GenerateResource.Cache
